@@ -1,0 +1,35 @@
+192.168.1.1
+192.168.1.2
+192.168.1.3
+192.168.1.4
+
+Top 3 HTTP Methods:
+PUT: 1 times
+POST: 1 times
+GET: 1 times
+
+Hourly Request Count:
+Hour 00: 0 requests
+Hour 01: 0 requests
+Hour 02: 0 requests
+Hour 03: 0 requests
+Hour 04: 0 requests
+Hour 05: 0 requests
+Hour 06: 0 requests
+Hour 07: 0 requests
+Hour 08: 0 requests
+Hour 09: 0 requests
+Hour 10: 0 requests
+Hour 11: 0 requests
+Hour 12: 0 requests
+Hour 13: 0 requests
+Hour 14: 0 requests
+Hour 15: 4 requests
+Hour 16: 0 requests
+Hour 17: 0 requests
+Hour 18: 0 requests
+Hour 19: 0 requests
+Hour 20: 0 requests
+Hour 21: 0 requests
+Hour 22: 0 requests
+Hour 23: 0 requests
