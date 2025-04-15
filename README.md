@@ -36,14 +36,13 @@ Sample CSV log file. *Note: Ensure that this file is present in the same directo
 
 ## Usage Instructions
 
-### Running larger.sh
-To run the `larger.sh` script, open a terminal in the repository directory and run:
-```bash
-bash larger.sh file1.txt file2.txt
-
-Prerequisites
+### Prerequisites
 A Unix-like operating system (Linux, macOS, or Windows Subsystem for Linux).Bash shell.
 Standard Unix utilities (sed, grep, awk) available in your environment.
 
-Running main.sh
+### Running larger.sh
+To run the `larger.sh` script, open a terminal in the repository directory and run:
+bash larger.sh file1.txt file2.txt
+
+### Running main.sh
 To run the main.sh script, use the following command: bash main.sh logs.csv output.txt log_ts.txt
